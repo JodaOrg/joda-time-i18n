@@ -4,7 +4,7 @@
 
  <properties>
   <title>Java date and time API - I18N support - Home</title>
-  <author email="scolebourne@users.sourceforge.net">Stephen Colebourne</author>
+  <author>Stephen Colebourne</author>
  </properties>
 
  <body>
@@ -40,11 +40,9 @@ Version 0.1 was released on 2006-08-21 -
 <p>
 Various documentation is available:
 <ul>
-<!--<li>The user guide - <a href="userguide.html">user guide</a></li>-->
 <li>The javadoc for the <a href="api-release/index.html">current release</a></li>
-<li>The javadoc for the <a href="apidocs/index.html">latest in development</a></li>
-<!--li>A <a href="faq.html">FAQ</a> list</li-->
-<li>The <a href="http://joda-time.svn.sourceforge.net/viewvc/joda-time/trunk/JodaTimeContrib/i18n/">Subversion repository</a></li>
+<li>The javadoc for the <a href="apidocs/index.html">latest source code</a></li>
+<li>The <a href="https://github.com/JodaOrg/joda-time-i18n">GitHub</a> source repository</li>
 </ul>
 </p>
 </section>
@@ -52,10 +50,11 @@ Various documentation is available:
 
 <section name="Releases">
 <p>
-<a href="http://sourceforge.net/project/showfiles.php?group_id=97367&amp;package_id=201487">Release 0.1</a>
+<a href="http://sourceforge.net/projects/joda-time/files/joda-time-i18n/">Release 0.1</a>
 is the current latest release.
 This release is a beta release and may have bugs.
 The API is liable to change without deprecation until version 1.0 is released.
+Please bear in mind that this project is separate from Joda-Time itself.
 </p>
 <p>
 The dependencies are Joda-Time 1.0 or later.
@@ -67,10 +66,18 @@ We recommend JDK 1.4 or later, and have performed no testing on earlier JDKs.
 <section name="Support">
 <p>
 The Joda-Time I18N support library was contributed to Joda-Time by Stephen Colebourne.
+Support on bugs, library usage or enhancement requests is available via:
 </p>
+<ul>
+<li>the joda-interest <a href="mail-lists.html">mailing list</a>. Due to spam, you must be subscribed to post to the mailing list.</li>
+<li>the joda-time sourceforge <a href="http://sourceforge.net/projects/joda-time/forums/forum/337835">forum</a>.</li>
+</ul>
 <p>
-For support on bugs, using the library or to volunteer please contact the <a href="mail-lists.html">mailing list</a>.
-Due to spam, you must be subscribed to the mailing list to send a mail.
+<br />
+<br />
+<br />
+<br />
+<br />
 </p>
 </section>
 </body>
