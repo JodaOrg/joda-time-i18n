@@ -1,6 +1,6 @@
 Package: org.joda.time
 Extension-Name: joda-time-i18n
-Specification-Title: Joda Time I18N support
+Specification-Title: Joda-Time I18N support
 Specification-Vendor: Joda.org
 Specification-Version: 0.1
 Implementation-Vendor: Joda.org
@@ -15,5 +15,4 @@ Bundle-Version: 0.1
 Import-Package: org.joda.time;version="1.5.0"
 Export-Package: org.joda.time.contrib.i18n;version=0.1
 Bundle-License: Apache 2.0
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
 Bundle-DocURL: http://joda-time.sourceforge.net/contrib/i18n/
