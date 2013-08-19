@@ -79,7 +79,6 @@
         </includes>
       </resource>
     </resources>
-    <testSourceDirectory>src/main/test</testSourceDirectory>
     <!-- define build -->
     <plugins>
       <plugin>
