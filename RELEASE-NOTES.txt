@@ -15,8 +15,5 @@ Joda-Time code. As such it is possible that methods and classes may come
 and go over time without warning - you have been warned!
 
 
-Feedback
---------
-All feedback is welcomed at joda-interest@lists.sourceforge.net.
-
-The Joda team
+Home page: http://www.joda.org/joda-time-i18n/
+GitHub: https://github.com/JodaOrg/joda-time-i18n

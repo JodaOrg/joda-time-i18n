@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0"?>
 
 <document>
 
@@ -11,7 +11,7 @@
 
 <section name="Joda Time - I18N support">
 <p>
-<a href="/index.html">Joda-Time</a> provides a complete quality alternative
+<a href="http://www.joda.org/joda-time/">Joda-Time</a> provides a complete quality alternative
 to the JDK date and time classes.
 Many aspects of date and time require internationalized data.
 This project provides access to additional I18N data not supplied as part of the
@@ -33,6 +33,9 @@ As a flavour of the functionality, here's how to find out what days are the week
 Version 0.1 was released on 2006-08-21 -
 <a href="http://sourceforge.net/project/showfiles.php?group_id=97367&amp;package_id=201487">Download now</a>
 </p>
+<p>
+Joda-Time-I18N is licensed under the business-friendly <a href="license.html">Apache 2.0 licence</a>.
+</p>
 </section>
 
 
@@ -40,8 +43,8 @@ Version 0.1 was released on 2006-08-21 -
 <p>
 Various documentation is available:
 <ul>
-<li>The javadoc for the <a href="api-release/index.html">current release</a></li>
-<li>The javadoc for the <a href="apidocs/index.html">latest source code</a></li>
+<li>The <a href="apidocs/index.html">Javadoc</a></li>
+<li>The change notes for the <a href="changes-report.html">releases</a></li>
 <li>The <a href="https://github.com/JodaOrg/joda-time-i18n">GitHub</a> source repository</li>
 </ul>
 </p>
@@ -50,7 +53,7 @@ Various documentation is available:
 
 <section name="Releases">
 <p>
-<a href="http://sourceforge.net/projects/joda-time/files/joda-time-i18n/">Release 0.1</a>
+<a href="download.html">Release 0.1</a>
 is the current latest release.
 This release is a beta release and may have bugs.
 The API is liable to change without deprecation until version 1.0 is released.
@@ -65,18 +68,19 @@ We recommend JDK 1.4 or later, and have performed no testing on earlier JDKs.
 
 <section name="Support">
 <p>
-The Joda-Time I18N support library was contributed to Joda-Time by Stephen Colebourne.
-Support on bugs, library usage or enhancement requests is available via:
+Support on bugs, library usage or enhancement requests is available on a best efforts basis.
 </p>
-<ul>
-<li>the joda-interest <a href="mail-lists.html">mailing list</a>. Due to spam, you must be subscribed to post to the mailing list.</li>
-<li>the joda-time sourceforge <a href="http://sourceforge.net/projects/joda-time/forums/forum/337835">forum</a>.</li>
-</ul>
+<p>
+To suggest enhancements or contribute, please <a href="https://github.com/JodaOrg/joda-time-i18n">fork the source code</a> on GitHub.
+Alternatively, use GitHub <a href="https://github.com/JodaOrg/joda-time-i18n/issues">issues</a>.
+</p>
 <p>
 <br />
+</p>
+<p>
 <br />
-<br />
-<br />
+</p>
+<p>
 <br />
 </p>
 </section>

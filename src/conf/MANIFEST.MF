@@ -15,4 +15,4 @@ Bundle-Version: 0.1
 Import-Package: org.joda.time;version="1.5.0"
 Export-Package: org.joda.time.contrib.i18n;version=0.1
 Bundle-License: Apache 2.0
-Bundle-DocURL: http://joda-time.sourceforge.net/contrib/i18n/
+Bundle-DocURL: http://www.joda.org/joda-time-i18n/
