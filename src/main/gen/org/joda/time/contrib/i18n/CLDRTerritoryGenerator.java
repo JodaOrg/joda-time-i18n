@@ -1,5 +1,5 @@
 /*
- *  Copyright 2006 Stephen Colebourne
+ *  Copyright 2006-2013 Stephen Colebourne
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -41,6 +41,7 @@ import org.xml.sax.SAXParseException;
 /**
  * Generates a file that stores the territory data.
  */
+@SuppressWarnings({"rawtypes", "unchecked"})
 public class CLDRTerritoryGenerator {
 
     Map firstDOWMap = new HashMap();

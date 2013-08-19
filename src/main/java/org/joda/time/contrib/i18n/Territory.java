@@ -1,5 +1,5 @@
 /*
- *  Copyright 2006 Stephen Colebourne
+ *  Copyright 2006-2013 Stephen Colebourne
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -27,6 +27,7 @@ import org.joda.time.DateTimeZone;
  * Many pieces of data used in dates and times varies by territory.
  * This class provides access to that data.
  */
+@SuppressWarnings({"unchecked", "rawtypes"})
 public abstract class Territory {
 
 //    /** An empty chronology array. */
