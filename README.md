@@ -12,9 +12,11 @@ This project provides access to additional I18N data not supplied as part of the
 
 As a flavour of the functionality, here's how to find out what days are the weekend in Egypt:
 
-    Territory t = Territory.forID("EG");
-    int weekendStartDay = t.getWeekendStart();
-    int weekendEndDay = t.getWeekendEnd();
+```java
+Territory t = Territory.forID("EG");
+int weekendStartDay = t.getWeekendStart();
+int weekendEndDay = t.getWeekendEnd();
+```
 
 Joda-Time-I18N is licensed under the business-friendly [Apache 2.0 licence](http://www.joda.org/joda-time-18n/license.html).
 
