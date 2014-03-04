@@ -8,18 +8,18 @@
 
     <!-- types are add, fix, remove, update -->
     <release version="0.2" date="xxxx-xx-xx" description="v0.2">
-      <action dev="scolebourne" type="add" >
+      <action dev="jodastephen" type="add" >
         Home page at GitHub.
       </action>
-      <action dev="scolebourne" type="update">
+      <action dev="jodastephen" type="update">
         Change to use m2e Maven Eclipse
       </action>
     </release>
     <release version="0.1" date="2006-08-21" description="v0.1">
-      <action dev="scolebourne" type="add">
+      <action dev="jodastephen" type="add">
         Release.
       </action>              
-      <action dev="scolebourne" type="add">
+      <action dev="jodastephen" type="add">
         Create initial version.
       </action>              
     </release>
